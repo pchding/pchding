@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Pengcheng Ding. You can veiw my selected portfolio at https://about.pding.dev
+
 <!--
 **pchding/pchding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
